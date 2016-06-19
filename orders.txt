@@ -1,0 +1,8 @@
+Alice	Lewis	gunung tahan, melbourne	+619 8765 4321	alice@wonderland.com	3	0	0	0	38.91
+Bob	Builder	gold coast	+44 161 941 2626	bob@thebuilder.com	0	0	3	0	16.41
+Carol	Singer	chow kit, kuala lumpur	(08) 1234 5678	carolsinger	0	0	0	3	4.50
+Alice	Lewis	fgdfgdg	+619 8765 4321	alice@wonderland.com	0	0	0	3	4.50
+Bedah	dfdsfd	petaling st	32423423423	gegeg	3	0	0	0	39.00
+					3	0	0	0	39.00
+					0	1	0	0	14.00
+Alice	Lewis	fafgfdgdsgd	+619 8765 4321	alice@wonderland.com	0	3	0	0	41.88

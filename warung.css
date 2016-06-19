@@ -1,0 +1,48 @@
+
+	.heder{width:100%; height:20%; background-color: #CCFFFF;}
+	.container {width:100%;height:1250px} 
+	.menu {background-color:#0099FF; height:1326px; width:16%; float:left; text-align:left}
+	.login{text-align: left; padding-left: 25px; padding-top: 30px;}
+	.content{background-color:#CCFFFF;width:100%; padding-top: 0px;}
+	.footer{background-color:#495EFF;text-align:center; clear:both; color:white;}
+	.centermenu {height:568px; width:200px; margin:0px; text-align:center; }
+	.centerphoto{width:40%; float:left; text-align:center; }
+	.centerphoto1 {width:40%; float:right; text-align:center; }
+	.centerwords{ float:left; text-align:left; }
+	.thumbphotoc{width:10%; height: 40%; float:left; padding-left:20%;}
+	.thumbphotoc1{width:10%; height: 40%; float:right; padding-right: 40%;}
+	.thumbnail {float:left;width:210px;height:150px;margin:20px;}
+	.text_line{float:left;margin:2px;}
+	.itemphoto{width:20%; height: 5%; float:left; text-align:center; padding-left:8%; padding-top:3%;}
+	.itemfrm{width:30%; height: 10%; float:right; text-align:left;  padding-right:7%; padding-top: 6%; }
+	.itemdetails{width:70%; height: 20%; float:left; text-align:left; padding-left:5%; padding-top: 3%;}
+	.lginout{padding-left: 20%; padding-top: 3%; }
+	.lgout{padding-left: 20%; padding-top: 3%}
+
+
+	h1{font-size:25px; font-weight:bolder; font-family:arial,verdana,sans-serif; color:#000066; }
+	h2{font-size:20px; font-weight:bold; font-family:arial,verdana,sans-serif; color:#009999; }
+	h3{font-size:20px; font-weight:bold; font-family:arial,verdana,sans-serif; color:#333366; }
+	h4{font-size:15px; font-weight:bold; font-family:arial,verdana,sans-serif; color:#669999; }
+	h5{font-size:20px; font-weight:bold; font-family:arial,verdana,sans-serif; color:#003366; }
+	h6{font-size:10px; font-style:italic; font-family:arial,verdana,sans-serif; color:red; }
+	h7{font-size:15px; font-weight:bold; font-family:arial,verdana,sans-serif; color:#003366; }
+	h8{font-size:10px; font-weight:bold; font-family:arial,verdana,sans-serif; color:#669999; }
+	h9{text-align: center; font-size:15px; font-weight:bold; font-family:arial,verdana,sans-serif; color:#003366;}
+	
+	a:link{color:#495EFF;}
+	a:visited{color:#495EFF;}
+	a:hover{ color:#09F;}
+	a:active{color:#09F}
+	
+	.menu a:link{color:#CCFFFF;}
+	.menu a:visited{color:#CCFFFF;}
+	.menu a:hover{color:white;}
+	.menu a:active{color:white;}
+	
+	.centermenu p{margin-top:50px; margin-left:25px; padding:10px; border:3px #CCFFFF solid; border-radius: 5px; background-color:blue; width:120px; text-align: center; font-size:18px; font-weight:bold; font-family:arial,verdana,sans-serif;}
+	
+	.footer a:link{color:#CCFFFF;}
+	.footer a:visited{color:#CCFFFF;}
+	.footer a:hover{color:white;}
+	.footer a:active{color:white;}
